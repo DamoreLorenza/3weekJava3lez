@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,600;1,100&display=swap');
+
+body { min-height: 100vh;
+
+ background-image: url(img/54333.jpg) ;  
+ 
+ background-size: cover;
+
+
+ background-repeat: no-repeat;
+
+ background-color: snow;
+
+ ba
+
+     
+}
+
+header, main, section, footer {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+
+    border: solid black;
+}
+
+header h4{
+
+    display: inline;
+    padding: 3em;
+    margin: 5em 3em 3em 3em;
+
+    
+
+    
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+header{
+    background-color: blue;
+padding-top: 2em;
+padding-bottom: 2em;
+margin-top: 0em;
+border-top: 0em;
+}
+
+/* main */
+
+main h1,h3{
+    text-align: center;
+}
+
+main h1{
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+main h3{
+
+    padding-bottom: 3em;
+}
+
+main label{
+
+    font-size: 30px;
+    padding: 2em;
+    
+}
+
+main button{
+    margin: 2em 5em;
+    padding: 0.5em;
+}
+
+main input{
+
+    padding: 3em;
+    padding-right: 10em;
+}
+
+
+
+section div p{
+
+    display: inline-block;
+
+    padding: 2em;
+    
+    margin-right: 0.5em;
+    margin-bottom: 1em; 
+
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+section div button{
+
+margin-left: 2em;
+
+
+}
+
+
+
+
+footer a {
+
+font-weight: bolder;
+color: blue;
+text-align: center;
+
+}
+
+footer h4{
+    text-align: center;
+}
